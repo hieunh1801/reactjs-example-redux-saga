@@ -1,0 +1,22 @@
+/*-------------- ListItem --------------*/
+.listItemContainer {
+	width: 630px;
+}
+
+
+/*-------------- Item -------------- */
+.item:hover {
+	/*background-color: red;*/
+	background-color: rgb(245, 245, 245);
+}
+.itemContainer > .itemTitle {
+	font-weight: bold;
+}
+/*-------------- FormInput --------------*/
+.txtInput {
+	width: 200px;
+}
+.btn {
+	margin-right: 15px;
+	width: 200px;
+}
