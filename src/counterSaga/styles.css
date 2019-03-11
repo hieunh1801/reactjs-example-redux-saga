@@ -1,0 +1,10 @@
+.counterContainer {
+    width: 960px;
+    min-height: 50px;
+    margin: auto;
+    padding: 50px;
+}
+Button {
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
