@@ -7,7 +7,7 @@
 
 > Cài đặt: __yarn add antd redux react-redux redux-saga__
 
-## REDUX
+## Todolist APP
 [Link bài viết từ trang chủ Redux](https://redux.js.org/basics/basic-tutorial)
 
 
@@ -25,3 +25,5 @@ Hướng dẫn: Phía dưới là hướng dẫn từng bước một để tạ
 Hình ảnh về luồng dữ liệu hoàn chỉnh
 
 ![image](doc/ReduxFlow.gif)
+
+## Counter APP
